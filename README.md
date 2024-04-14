@@ -12,7 +12,7 @@ Feature
 * Localized English / Indonesian / Arabic
 
 ------------------------------------------------------------
-Screenshoot | Demo On [Q8astro](https://q8astro.com/codeigniter4admin/)
+Screenshoot | Demo On [Q8astro](https://q8astro.com/codeigniter4admin/) based on [agungsugiarto](https://github.com/agungsugiarto) 
 -------------------------------------------------------------------------------
 ![Dashboard](dashboard.png?raw=true) 
 
