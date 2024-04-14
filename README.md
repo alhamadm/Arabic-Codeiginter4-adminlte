@@ -89,7 +89,7 @@ php spark boilerplate:install
 ```
 **5.** Arabic Files:
 
-Overwirte the Project Files 
+* Overwirte the Project Files 
 
 **6.** Run development server:
 ```bash
