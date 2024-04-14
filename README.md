@@ -14,7 +14,7 @@ Feature
 ------------------------------------------------------------
 Screenshoot | Demo On [Q8astro](https://q8astro.com/codeigniter4admin/)
 -------------------------------------------------------------------------------
-![Dashboard](.github/alhamadm/Arabic-Codeiginter4-adminlte/blob/main/dashboard.png?raw=true) 
+![Dashboard](dashboard.png?raw=true) 
 
 Installation
 ------------
