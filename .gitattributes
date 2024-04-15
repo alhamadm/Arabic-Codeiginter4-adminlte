@@ -1,2 +1,1 @@
-static/* linguist-vendored
-*.js linguist-vendored=false
+*.html linguist-detectable=false
